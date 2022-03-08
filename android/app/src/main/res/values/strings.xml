@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectName</string>
+    <string name="default_notification_channel_id">PUSH-LOCAL-NOTIFICATIONS</string>
+</resources>
