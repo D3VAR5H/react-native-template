@@ -1,3 +1,4 @@
+import 'expo-asset';
 import * as React from 'react';
 import { AppRegistry } from 'react-native';
 // import {Provider as PaperProvider} from 'react-native-paper';

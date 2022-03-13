@@ -1,11 +1,14 @@
 {
+  "name": "ProjectName",
+  "displayName": "ProjectName",
   "expo": {
     "name": "ProjectName",
     "slug": "ProjectName-slug",
     "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "owner": "d3var5h",
     "assetBundlePatterns": [
       "**/*"
     ]
-  },
-  "name": "ProjectName"
+  }
 }
